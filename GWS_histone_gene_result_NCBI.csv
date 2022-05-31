@@ -1,0 +1,578 @@
+tax_id,Org_name,GeneID,CurrentID,Status,Symbol,Aliases,description,other_designations,map_location,chromosome,genomic_nucleotide_accession.version,start_position_on_the_genomic_accession,end_position_on_the_genomic_accession,gene_length,exon_count,OMIM,orientation
+13397,Carcharodon carcharias,121292413,0,live,alkbh1,,"alkB homolog 1, histone H2A dioxygenase",nucleic acid dioxygenase ALKBH1,,20,NC_054486.1,101100251,101143134,42883,6,,minus
+13397,Carcharodon carcharias,121285072,0,live,LOC121285072,,anion exchange protein 3-like,anion exchange protein 3-like,,12,NC_054478.1,16909451,17087871,178420,25,,plus
+13397,Carcharodon carcharias,121283584,0,live,abtb2b,,ankyrin repeat and BTB (POZ) domain containing 2b,ankyrin repeat and BTB/POZ domain-containing protein 2,,10,NC_054476.1,836312,1193124,356812,18,,minus
+13397,Carcharodon carcharias,121282570,0,live,LOC121282570,,ankyrin repeat and BTB/POZ domain-containing protein BTBD11-like,ankyrin repeat and BTB/POZ domain-containing protein BTBD11-like,,9,NC_054475.1,63391611,63438180,46569,17,,minus
+13397,Carcharodon carcharias,121271184,0,live,asf1bb,,anti-silencing function 1Bb histone chaperone,histone chaperone asf1b-B,,30,NC_054496.1,25777248,25797005,19757,4,,plus
+13397,Carcharodon carcharias,121292573,0,live,arg2,,arginase 2,"arginase-2, mitochondrial",,20,NC_054486.1,12332640,12353721,21081,9,,plus
+13397,Carcharodon carcharias,121272851,0,live,ash1l,,"ash1 (absent, small, or homeotic)-like (Drosophila)",histone-lysine N-methyltransferase ASH1L,,36,NC_054502.1,5001115,5231735,230620,29,,plus
+13397,Carcharodon carcharias,121289844,0,live,ash2l,,"ash2 like, histone lysine methyltransferase complex subunit",set1/Ash2 histone methyltransferase complex subunit ASH2,,17,NC_054483.1,25587667,25635043,47376,19,,minus
+13397,Carcharodon carcharias,121292424,0,live,arid4a,,AT rich interactive domain 4A (RBP1-like),AT-rich interactive domain-containing protein 4A,,20,NC_054486.1,59593314,59712814,119500,28,,minus
+13397,Carcharodon carcharias,121278054,0,live,arid4b,,AT-rich interaction domain 4B,AT-rich interactive domain-containing protein 4B,,5,NC_054471.1,162916595,163087217,170622,26,,minus
+13397,Carcharodon carcharias,121286391,0,live,bcl7a,,BAF chromatin remodeling complex subunit BCL7A,B-cell CLL/lymphoma 7 protein family member A,,13,NC_054479.1,33698921,33760824,61903,7,,plus
+13397,Carcharodon carcharias,121273352,0,live,LOC121273352,,bromodomain adjacent to zinc finger domain protein 2B-like,bromodomain adjacent to zinc finger domain protein 2B-like,,X,NC_054507.1,24419353,24580681,161328,29,,minus
+13397,Carcharodon carcharias,121292496,0,live,baz1a,,"bromodomain adjacent to zinc finger domain, 1A",bromodomain adjacent to zinc finger domain protein 1A,,20,NC_054486.1,46052119,46153300,101181,28,,minus
+13397,Carcharodon carcharias,121283231,0,live,baz1b,,"bromodomain adjacent to zinc finger domain, 1B",tyrosine-protein kinase BAZ1B,,10,NC_054476.1,130673124,130766719,93595,18,,plus
+13397,Carcharodon carcharias,121284851,0,live,baz2ba,,"bromodomain adjacent to zinc finger domain, 2Ba",bromodomain adjacent to zinc finger domain protein 2B,,12,NC_054478.1,65864507,66177736,313229,40,,plus
+13397,Carcharodon carcharias,121282121,0,live,brpf3b,,"bromodomain and PHD finger containing, 3b",bromodomain and PHD finger-containing protein 3,,9,NC_054475.1,32193011,32262411,69400,14,,minus
+13397,Carcharodon carcharias,121282017,0,live,brwd3,,bromodomain and WD repeat domain containing 3,bromodomain and WD repeat-containing protein 3,,9,NC_054475.1,123288436,123393299,104863,43,,minus
+13397,Carcharodon carcharias,121290609,0,live,LOC121290609,,bromodomain and WD repeat-containing protein 3-like,bromodomain and WD repeat-containing protein 3-like,,18,NC_054484.1,23822137,24003477,181340,41,,minus
+13397,Carcharodon carcharias,121288975,0,live,brd2b,,bromodomain containing 2b,bromodomain-containing protein 2b,,16,NC_054482.1,102211118,102221814,10696,4,,minus
+13397,Carcharodon carcharias,121279807,0,live,brd7,,bromodomain containing 7,bromodomain-containing protein 7,,7,NC_054473.1,143024628,143089377,64749,19,,plus
+13397,Carcharodon carcharias,121293581,0,live,bptf,,bromodomain PHD finger transcription factor,nucleosome-remodeling factor subunit BPTF,,22,NC_054488.1,56919665,57057388,137723,33,,minus
+13397,Carcharodon carcharias,121293415,0,live,btbd11b,,BTB (POZ) domain containing 11b,ankyrin repeat and BTB/POZ domain-containing protein BTBD11-B,,21,NC_054487.1,82354917,82488398,133481,17,,minus
+13397,Carcharodon carcharias,121292973,0,live,LOC121292973,,cat eye syndrome critical region protein 2,cat eye syndrome critical region protein 2,,21,NC_054487.1,47212103,47358822,146719,19,,plus
+13397,Carcharodon carcharias,121283534,0,live,LOC121283534,,cat eye syndrome critical region protein 2 homolog,cat eye syndrome critical region protein 2 homolog,,10,NC_054476.1,28205406,28289990,84584,19,,minus
+13397,Carcharodon carcharias,121269782,0,live,ccpg1,,cell cycle progression 1,cell cycle progression protein 1,,26,NC_054492.1,20621225,20668752,47527,12,,minus
+13397,Carcharodon carcharias,121287842,0,live,cenps,,centromere protein S,centromere protein S,,15,NC_054481.1,127929279,127965788,36509,5,,plus
+13397,Carcharodon carcharias,121280231,0,live,cenpt,,centromere protein T,centromere protein T,,7,NC_054473.1,129519430,129541579,22149,7,,plus
+13397,Carcharodon carcharias,121290452,0,live,LOC121290452,,cilia- and flagella-associated protein 47-like,LOW QUALITY PROTEIN: cilia- and flagella-associated protein 47-like,,18,NC_054484.1,50719521,51381054,661533,72,,plus
+13397,Carcharodon carcharias,121271225,0,live,carm1,,coactivator-associated arginine methyltransferase 1,histone-arginine methyltransferase CARM1,,30,NC_054496.1,16928906,16994971,66065,16,,minus
+13397,Carcharodon carcharias,121276964,0,live,carm1l,,"coactivator-associated arginine methyltransferase 1, like",histone-arginine methyltransferase CARM1,,4,NC_054470.1,51709038,51833471,124433,13,,minus
+13397,Carcharodon carcharias,121271164,0,live,LOC121271164,,complement C3-like,complement C3-like,,30,NC_054496.1,11038045,11205562,167517,45,,minus
+13397,Carcharodon carcharias,121281143,0,live,LOC121281143,,core histone macro-H2A.1,core histone macro-H2A.1,,8,NC_054474.1,42701704,42757443,55739,10,,minus
+13397,Carcharodon carcharias,121287690,0,live,LOC121287690,,core histone macro-H2A.1-like,core histone macro-H2A.1-like,,2,NC_054468.1,83330965,83368527,37562,5,,plus
+13397,Carcharodon carcharias,121270945,0,live,LOC121270945,,core histone macro-H2A.2,core histone macro-H2A.2,,28,NC_054494.1,33150523,33182920,32397,12,,plus
+13397,Carcharodon carcharias,121288695,0,live,LOC121288695,,CREB-binding protein-like,CREB-binding protein-like,,15,NC_054481.1,28765192,28927647,162455,33,,plus
+13397,Carcharodon carcharias,121291419,0,live,daxx,,death-domain associated protein,death domain-associated protein 6,,19,NC_054485.1,113852283,113910191,57908,6,,plus
+13397,Carcharodon carcharias,121278220,0,live,LOC121278220,,DNA polymerase epsilon subunit 3-like,DNA polymerase epsilon subunit 3-like,,5,NC_054471.1,105477633,105478128,495,2,,minus
+13397,Carcharodon carcharias,121286870,0,live,dot1l,,DOT1-like histone H3K79 methyltransferase,"histone-lysine N-methyltransferase, H3 lysine-79 specific",,14,NC_054480.1,144265496,144375955,110459,29,,plus
+13397,Carcharodon carcharias,121288814,0,live,dr1,,down-regulator of transcription 1,protein Dr1,,16,NC_054482.1,100721486,100749753,28267,3,,minus
+13397,Carcharodon carcharias,121277902,0,live,dpy30,,dpy-30 histone methyltransferase complex regulatory subunit,protein dpy-30 homolog,,5,NC_054471.1,159472795,159487277,14482,5,,minus
+13397,Carcharodon carcharias,121268981,0,live,ezh1,,enhancer of zeste 1 polycomb repressive complex 2 subunit,histone-lysine N-methyltransferase EZH1,,23,NC_054489.1,1509684,1691814,182130,19,,minus
+13397,Carcharodon carcharias,121276424,0,live,ezh2,,enhancer of zeste 2 polycomb repressive complex 2 subunit,histone-lysine N-methyltransferase EZH2,,3,NC_054469.1,88883205,88994545,111340,22,,minus
+13397,Carcharodon carcharias,121280790,0,live,ehmt1b,,euchromatic histone-lysine N-methyltransferase 1b,histone-lysine N-methyltransferase EHMT1,,8,NC_054474.1,140001053,140172631,171578,33,,minus
+13397,Carcharodon carcharias,121291901,0,live,ehmt2,,euchromatic histone-lysine N-methyltransferase 2,histone-lysine N-methyltransferase EHMT2,,19,NC_054485.1,102739892,102827054,87162,34,,minus
+13397,Carcharodon carcharias,121269424,0,live,LOC121269424,,FACT complex subunit SSRP1-like,FACT complex subunit SSRP1-like,,24,NC_054490.1,9686997,9721181,34184,16,,minus
+13397,Carcharodon carcharias,121269713,0,live,fam118b,,family with sequence similarity 118 member B,protein FAM118B,,25,NC_054491.1,37499076,37539521,40445,12,,plus
+13397,Carcharodon carcharias,121272869,0,live,LOC121272869,,GON-4-like protein,GON-4-like protein,,36,NC_054502.1,4783228,4938667,155439,27,,plus
+13397,Carcharodon carcharias,121272603,0,live,h3f3c,,"H3 histone, family 3C","H3 histone, family 3C",,34,NC_054500.1,20877664,20889397,11733,5,,plus
+13397,Carcharodon carcharias,121287984,0,live,hp1bp3,,"heterochromatin protein 1, binding protein 3",heterochromatin protein 1-binding protein 3,,15,NC_054481.1,90380117,90402622,22505,12,,plus
+13397,Carcharodon carcharias,121272024,0,live,hmg20a,,high mobility group 20A,high mobility group protein 20A,,32,NC_054498.1,8114429,8161287,46858,12,,plus
+13397,Carcharodon carcharias,121287388,0,live,hmg20b,,high mobility group 20B,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related,,14,NC_054480.1,147984338,148012356,28018,13,,minus
+13397,Carcharodon carcharias,121277272,0,live,hmgb2a,,high mobility group box 2a,high mobility group protein B2a,,4,NC_054470.1,182295471,182301354,5883,5,,plus
+13397,Carcharodon carcharias,121284137,0,live,LOC121284137,,high mobility group protein B1-like,high mobility group protein B1-like,,11,NC_054477.1,45605593,45610141,4548,5,,plus
+13397,Carcharodon carcharias,121282210,0,live,LOC121282210,,high mobility group protein B3-like,high mobility group protein B3-like,,9,NC_054475.1,156489717,156494236,4519,6,,plus
+13397,Carcharodon carcharias,121273338,0,live,hat1,,histone acetyltransferase 1,histone acetyltransferase type B catalytic subunit,,X,NC_054507.1,6332820,6369502,36682,11,,minus
+13397,Carcharodon carcharias,121276862,0,live,LOC121276862,,histone acetyltransferase HAC2-like,histone acetyltransferase HAC2-like,,4,NC_054470.1,122570171,122575599,5428,14,,minus
+13397,Carcharodon carcharias,121274682,0,live,LOC121274682,,histone acetyltransferase KAT5,histone acetyltransferase KAT5,,37,,,,,,,
+13397,Carcharodon carcharias,121289759,0,live,LOC121289759,,histone acetyltransferase KAT6A-like,histone acetyltransferase KAT6A-like,,17,NC_054483.1,10429273,10587709,158436,18,,minus
+13397,Carcharodon carcharias,121271551,0,live,LOC121271551,,histone acetyltransferase p300-like,histone acetyltransferase p300-like,,31,NC_054497.1,27520180,27635021,114841,32,,minus
+13397,Carcharodon carcharias,121289356,0,live,LOC121289356,,histone chaperone ASF1A-like,,,16,NC_054482.1,19640200,19643561,3361,0,,plus
+13397,Carcharodon carcharias,121283368,0,live,LOC121283368,,histone chaperone ASF1A-like,,,10,NC_054476.1,33625606,33634263,8657,0,,plus
+13397,Carcharodon carcharias,121292746,0,live,LOC121292746,,histone chaperone ASF1-like,,,20,NC_054486.1,4629933,4639813,9880,0,,plus
+13397,Carcharodon carcharias,121289365,0,live,LOC121289365,,histone chaperone ASF1-like,,,16,NC_054482.1,62069514,62070031,517,0,,minus
+13397,Carcharodon carcharias,121287525,0,live,LOC121287525,,histone chaperone ASF1-like,,,14,NC_054480.1,42567346,42607819,40473,0,,plus
+13397,Carcharodon carcharias,121282458,0,live,LOC121282458,,histone chaperone ASF1-like,,,9,NC_054475.1,115860846,116184581,323735,0,,plus
+13397,Carcharodon carcharias,121282457,0,live,LOC121282457,,histone chaperone ASF1-like,,,9,NC_054475.1,115621107,115639256,18149,0,,plus
+13397,Carcharodon carcharias,121278854,0,live,LOC121278854,,histone chaperone ASF1-like,,,6,NC_054472.1,174559832,174571680,11848,0,,plus
+13397,Carcharodon carcharias,121276062,0,live,LOC121276062,,histone chaperone ASF1-like,,,3,NC_054469.1,185512083,185513251,1168,0,,minus
+13397,Carcharodon carcharias,121291616,0,live,hdac1,,histone deacetylase 1,histone deacetylase 1,,19,NC_054485.1,2725073,2775680,50607,14,,minus
+13397,Carcharodon carcharias,121285571,0,live,hdac10,,histone deacetylase 10,polyamine deacetylase HDAC10,,13,NC_054479.1,114726880,114839239,112359,26,,plus
+13397,Carcharodon carcharias,121279775,0,live,hdac11,,histone deacetylase 11,histone deacetylase 11,,7,NC_054473.1,32112826,32230970,118144,11,,plus
+13397,Carcharodon carcharias,121278385,0,live,LOC121278385,,histone deacetylase 2,histone deacetylase 2,,5,NC_054471.1,135964289,136045996,81707,17,,minus
+13397,Carcharodon carcharias,121281241,0,live,hdac3,,histone deacetylase 3,histone deacetylase 3,,8,NC_054474.1,16551090,16578103,27013,16,,minus
+13397,Carcharodon carcharias,121285235,0,live,hdac4,,histone deacetylase 4,histone deacetylase 4,,12,NC_054478.1,145447301,145902169,454868,33,,minus
+13397,Carcharodon carcharias,121275077,0,live,LOC121275077,,histone deacetylase 4-like,histone deacetylase 4-like,,X,,,,,,,
+13397,Carcharodon carcharias,121294042,0,live,hdac5,,histone deacetylase 5,histone deacetylase 5,,23,NC_054489.1,23951044,24329466,378422,35,,minus
+13397,Carcharodon carcharias,121274275,0,live,LOC121274275,,histone deacetylase 6-like,histone deacetylase 6-like,,35,,,,,,,
+13397,Carcharodon carcharias,121282203,0,live,hdac8,,histone deacetylase 8,histone deacetylase 8,,9,NC_054475.1,104392597,104473460,80863,11,,plus
+13397,Carcharodon carcharias,121275947,0,live,LOC121275947,,histone deacetylase 9-like,histone deacetylase 9-like,,3,NC_054469.1,130603174,131239827,636653,25,,plus
+13397,Carcharodon carcharias,121269754,0,live,LOC121269754,,histone deacetylase complex subunit SAP130-like,histone deacetylase complex subunit SAP130-like,,2,NC_054468.1,93693535,93757000,63465,21,,minus
+13397,Carcharodon carcharias,121282423,0,live,LOC121282423,,"histone H1, gonadal-like","histone H1, gonadal-like",,9,NC_054475.1,63755648,63758129,2481,3,,minus
+13397,Carcharodon carcharias,121271667,0,live,LOC121271667,,histone H1.0,histone H1.0,,31,NC_054497.1,26241547,26242567,1020,1,,minus
+13397,Carcharodon carcharias,121271526,0,live,LOC121271526,,histone H1.0-like,histone H1.0-like,,31,NC_054497.1,26119675,26120383,708,1,,plus
+13397,Carcharodon carcharias,121279604,0,live,LOC121279604,,histone H1.10,histone H1.10,,7,NC_054473.1,7750591,7751586,995,1,,minus
+13397,Carcharodon carcharias,121291336,0,live,LOC121291336,,histone H1.3-like,histone H1.3-like,,19,NC_054485.1,110805589,110806323,734,1,,minus
+13397,Carcharodon carcharias,121274920,0,live,LOC121274920,,histone H1.4-like,histone H1.4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274913,0,live,LOC121274913,,histone H1.4-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121291335,0,live,LOC121291335,,histone H1.5-like,histone H1.5-like,,19,NC_054485.1,110802917,110803591,674,1,,minus
+13397,Carcharodon carcharias,121291376,0,live,LOC121291376,,histone H1-like,histone H1-like,,19,NC_054485.1,110872669,110873806,1137,1,,plus
+13397,Carcharodon carcharias,121291343,0,live,LOC121291343,,histone H1-like,histone H1-like,,19,NC_054485.1,111126596,111127473,877,1,,plus
+13397,Carcharodon carcharias,121291342,0,live,LOC121291342,,histone H1-like,histone H1-like,,19,NC_054485.1,111122125,111122751,626,1,,plus
+13397,Carcharodon carcharias,121291340,0,live,LOC121291340,,histone H1-like,histone H1-like,,19,NC_054485.1,110876919,110877545,626,1,,plus
+13397,Carcharodon carcharias,121275991,0,live,LOC121275991,,histone H1-like,histone H1-like,,3,NC_054469.1,50838757,50839425,668,1,,minus
+13397,Carcharodon carcharias,121274928,0,live,LOC121274928,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274921,0,live,LOC121274921,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274917,0,live,LOC121274917,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274911,0,live,LOC121274911,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274909,0,live,LOC121274909,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274860,0,live,LOC121274860,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274859,0,live,LOC121274859,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274858,0,live,LOC121274858,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274857,0,live,LOC121274857,,histone H1-like,histone H1-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274519,0,live,LOC121274519,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274518,0,live,LOC121274518,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274516,0,live,LOC121274516,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274515,0,live,LOC121274515,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274511,0,live,LOC121274511,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274498,0,live,LOC121274498,,histone H1-like,histone H1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121291349,0,live,LOC121291349,,histone H1-like,histone H1-like,,19,NC_054485.1,111167506,111168144,638,1,,minus
+13397,Carcharodon carcharias,121291346,0,live,LOC121291346,,histone H1-like,histone H1-like,,19,NC_054485.1,111134445,111135086,641,1,,plus
+13397,Carcharodon carcharias,121291341,0,live,LOC121291341,,histone H1-like,histone H1-like,,19,NC_054485.1,110881183,110881821,638,1,,plus
+13397,Carcharodon carcharias,121291339,0,live,LOC121291339,,histone H1-like,histone H1-like,,19,NC_054485.1,110844460,110845113,653,1,,minus
+13397,Carcharodon carcharias,121277758,0,live,LOC121277758,,histone H1-like,histone H1-like,,5,NC_054471.1,127347959,127493198,145239,20,,plus
+13397,Carcharodon carcharias,121274915,0,live,LOC121274915,,histone H1-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121274906,0,live,LOC121274906,,histone H1-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121274507,0,live,LOC121274507,,histone H1-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121283899,0,live,LOC121283899,,histone H2A,LOW QUALITY PROTEIN: histone H2A,,11,NC_054477.1,81129292,81129680,388,1,,plus
+13397,Carcharodon carcharias,121280345,0,live,LOC121280345,,histone H2A,histone H2A,,7,NC_054473.1,7700867,7702189,1322,1,,plus
+13397,Carcharodon carcharias,121273556,0,live,LOC121273556,,histone H2A type 2-like,,,24,,,,,,,
+13397,Carcharodon carcharias,121275575,0,live,LOC121275575,,"histone H2A, embryonic-like",,,1,NC_054467.1,157012199,157012587,388,0,,plus
+13397,Carcharodon carcharias,121293408,0,live,LOC121293408,,"histone H2A, sperm-like","histone H2A, sperm-like",,21,NC_054487.1,5201307,5201699,392,1,,plus
+13397,Carcharodon carcharias,121292753,0,live,LOC121292753,,"histone H2A, sperm-like","histone H2A, sperm-like",,20,NC_054486.1,8883597,8883986,389,1,,minus
+13397,Carcharodon carcharias,121290426,0,live,LOC121290426,,"histone H2A, sperm-like","histone H2A, sperm-like",,18,NC_054484.1,34376942,34377352,410,1,,minus
+13397,Carcharodon carcharias,121286042,0,live,LOC121286042,,"histone H2A, sperm-like","histone H2A, sperm-like",,13,NC_054479.1,50857658,50862108,4450,2,,minus
+13397,Carcharodon carcharias,121286014,0,live,LOC121286014,,"histone H2A, sperm-like","histone H2A, sperm-like",,13,NC_054479.1,21694638,21698501,3863,2,,minus
+13397,Carcharodon carcharias,121285652,0,live,LOC121285652,,"histone H2A, sperm-like","histone H2A, sperm-like",,13,NC_054479.1,1298616,1298966,350,1,,plus
+13397,Carcharodon carcharias,121275621,0,live,LOC121275621,,"histone H2A, sperm-like","histone H2A, sperm-like",,1,NC_054467.1,163875956,163881985,6029,3,,minus
+13397,Carcharodon carcharias,121274509,0,live,LOC121274509,,"histone H2A, sperm-like","histone H2A, sperm-like",,37,,,,,,,
+13397,Carcharodon carcharias,121280012,0,live,LOC121280012,,"histone H2A, sperm-like",,,7,NC_054473.1,85338618,85338990,372,0,,plus
+13397,Carcharodon carcharias,121276721,0,live,LOC121276721,,"histone H2A, sperm-like",,,4,NC_054470.1,28265320,28265696,376,0,,plus
+13397,Carcharodon carcharias,121272961,0,live,LOC121272961,,"histone H2A, sperm-like",,,37,NC_054503.1,7590236,7634059,43823,0,,plus
+13397,Carcharodon carcharias,121290081,0,live,LOC121290081,,histone H2A.V,histone H2A.V,,17,NC_054483.1,1243673,1255154,11481,5,,minus
+13397,Carcharodon carcharias,121288792,0,live,LOC121288792,,histone H2A.V-like,histone H2A.V-like,,16,NC_054482.1,9969556,9969830,274,1,,minus
+13397,Carcharodon carcharias,121279992,0,live,LOC121279992,,histone H2A.V-like,histone H2A.V-like,,7,NC_054473.1,55327027,55328087,1060,3,,minus
+13397,Carcharodon carcharias,121279278,0,live,LOC121279278,,histone H2A.Z,histone H2A.Z,,1,NC_054467.1,6015764,6018574,2810,5,,plus
+13397,Carcharodon carcharias,121292624,0,live,LOC121292624,,histone H2A.Z-like,histone H2A.Z-like,,20,NC_054486.1,46421251,46421620,369,1,,minus
+13397,Carcharodon carcharias,121289663,0,live,LOC121289663,,"histone H2A-beta, sperm-like","histone H2A-beta, sperm-like",,17,NC_054483.1,79108525,79126528,18003,2,,minus
+13397,Carcharodon carcharias,121277755,0,live,LOC121277755,,"histone H2A-beta, sperm-like","histone H2A-beta, sperm-like",,5,NC_054471.1,124346043,124358559,12516,2,,minus
+13397,Carcharodon carcharias,121272014,0,live,LOC121272014,,"histone H2A-beta, sperm-like","histone H2A-beta, sperm-like",,32,NC_054498.1,20813107,20842056,28949,2,,minus
+13397,Carcharodon carcharias,121270723,0,live,LOC121270723,,"histone H2A-beta, sperm-like","histone H2A-beta, sperm-like",,28,NC_054494.1,12780074,12780478,404,1,,plus
+13397,Carcharodon carcharias,121274508,0,live,LOC121274508,,"histone H2A-beta, sperm-like",,,37,,,,,,,
+13397,Carcharodon carcharias,121293403,0,live,LOC121293403,,histone H2A-like,histone H2A-like,,21,NC_054487.1,4841672,4842163,491,1,,plus
+13397,Carcharodon carcharias,121292747,0,live,LOC121292747,,histone H2A-like,histone H2A-like,,20,NC_054486.1,4665574,4665993,419,1,,minus
+13397,Carcharodon carcharias,121291348,0,live,LOC121291348,,histone H2A-like,histone H2A-like,,19,NC_054485.1,111151617,111152006,389,1,,plus
+13397,Carcharodon carcharias,121291347,0,live,LOC121291347,,histone H2A-like,histone H2A-like,,19,NC_054485.1,111136100,111136489,389,1,,plus
+13397,Carcharodon carcharias,121291337,0,live,LOC121291337,,histone H2A-like,histone H2A-like,,19,NC_054485.1,110831931,110832323,392,1,,minus
+13397,Carcharodon carcharias,121290063,0,live,LOC121290063,,histone H2A-like,histone H2A-like,,17,NC_054483.1,7241312,7241683,371,1,,plus
+13397,Carcharodon carcharias,121288428,0,live,LOC121288428,,histone H2A-like,histone H2A-like,,15,NC_054481.1,95471620,95473665,2045,2,,minus
+13397,Carcharodon carcharias,121287862,0,live,LOC121287862,,histone H2A-like,histone H2A-like,,15,NC_054481.1,23109527,23110081,554,1,,minus
+13397,Carcharodon carcharias,121287529,0,live,LOC121287529,,histone H2A-like,histone H2A-like,,14,NC_054480.1,47333821,47334255,434,1,,minus
+13397,Carcharodon carcharias,121286022,0,live,LOC121286022,,histone H2A-like,histone H2A-like,,13,NC_054479.1,31883807,31884193,386,1,,minus
+13397,Carcharodon carcharias,121285111,0,live,LOC121285111,,histone H2A-like,histone H2A-like,,12,NC_054478.1,25760847,25761269,422,1,,plus
+13397,Carcharodon carcharias,121283894,0,live,LOC121283894,,histone H2A-like,histone H2A-like,,11,NC_054477.1,72828249,72828638,389,1,,plus
+13397,Carcharodon carcharias,121283893,0,live,LOC121283893,,histone H2A-like,histone H2A-like,,11,NC_054477.1,72806150,72806539,389,1,,plus
+13397,Carcharodon carcharias,121282848,0,live,LOC121282848,,histone H2A-like,histone H2A-like,,10,NC_054476.1,80484005,80484394,389,1,,plus
+13397,Carcharodon carcharias,121277780,0,live,LOC121277780,,histone H2A-like,histone H2A-like,,5,NC_054471.1,171468281,171468742,461,1,,minus
+13397,Carcharodon carcharias,121277719,0,live,LOC121277719,,histone H2A-like,histone H2A-like,,5,NC_054471.1,72882557,72884241,1684,2,,plus
+13397,Carcharodon carcharias,121277629,0,live,LOC121277629,,histone H2A-like,histone H2A-like,,1,NC_054467.1,11898160,11898594,434,1,,plus
+13397,Carcharodon carcharias,121276806,0,live,LOC121276806,,histone H2A-like,histone H2A-like,,4,NC_054470.1,165965369,165978971,13602,2,,minus
+13397,Carcharodon carcharias,121276779,0,live,LOC121276779,,histone H2A-like,histone H2A-like,,4,NC_054470.1,119065780,119101657,35877,3,,minus
+13397,Carcharodon carcharias,121276762,0,live,LOC121276762,,histone H2A-like,histone H2A-like,,4,NC_054470.1,87891110,87891499,389,1,,plus
+13397,Carcharodon carcharias,121275527,0,live,LOC121275527,,histone H2A-like,histone H2A-like,,1,NC_054467.1,154528891,154529280,389,1,,minus
+13397,Carcharodon carcharias,121275434,0,live,LOC121275434,,histone H2A-like,histone H2A-like,,2,NC_054468.1,136657609,136658001,392,1,,plus
+13397,Carcharodon carcharias,121274541,0,live,LOC121274541,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274540,0,live,LOC121274540,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274539,0,live,LOC121274539,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274538,0,live,LOC121274538,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274536,0,live,LOC121274536,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274535,0,live,LOC121274535,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274534,0,live,LOC121274534,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274533,0,live,LOC121274533,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274532,0,live,LOC121274532,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274531,0,live,LOC121274531,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274530,0,live,LOC121274530,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274522,0,live,LOC121274522,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274500,0,live,LOC121274500,,histone H2A-like,histone H2A-like,,37,,,,,,,
+13397,Carcharodon carcharias,121273922,0,live,LOC121273922,,histone H2A-like,histone H2A-like,,1,NC_054467.1,98112036,98112455,419,1,,minus
+13397,Carcharodon carcharias,121273536,0,live,LOC121273536,,histone H2A-like,histone H2A-like,,24,,,,0,,,
+13397,Carcharodon carcharias,121273210,0,live,LOC121273210,,histone H2A-like,histone H2A-like,,X,NC_054507.1,18199000,18200663,1663,2,,plus
+13397,Carcharodon carcharias,121271013,0,live,LOC121271013,,histone H2A-like,histone H2A-like,,29,NC_054495.1,7136873,7137262,389,1,,minus
+13397,Carcharodon carcharias,121290372,0,live,LOC121290372,,histone H2A-like,,,18,NC_054484.1,83547838,83549158,1320,0,,plus
+13397,Carcharodon carcharias,121280071,0,live,LOC121280071,,histone H2A-like,,,7,NC_054473.1,163669880,163670267,387,0,,plus
+13397,Carcharodon carcharias,121275495,0,live,LOC121275495,,histone H2A-like,,,1,NC_054467.1,154271195,154271584,389,0,,minus
+13397,Carcharodon carcharias,121274503,0,live,LOC121274503,,histone H2A-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121274871,0,live,LOC121274871,,histone H2AX,histone H2AX,,39,,,,,,,
+13397,Carcharodon carcharias,121274869,0,live,LOC121274869,,histone H2AX,histone H2AX,,39,,,,,,,
+13397,Carcharodon carcharias,121274889,0,live,LOC121274889,,histone H2AX,histone H2AX,,39,,,,,,,
+13397,Carcharodon carcharias,121274876,0,live,LOC121274876,,histone H2AX,histone H2AX,,39,,,,,,,
+13397,Carcharodon carcharias,121274873,0,live,LOC121274873,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121289660,0,live,LOC121289660,,histone H2AX-like,histone H2AX-like,,17,NC_054483.1,72181567,72181887,320,1,,plus
+13397,Carcharodon carcharias,121287863,0,live,LOC121287863,,histone H2AX-like,histone H2AX-like,,15,NC_054481.1,22995915,22996834,919,1,,minus
+13397,Carcharodon carcharias,121287659,0,live,LOC121287659,,histone H2AX-like,histone H2AX-like,,2,NC_054468.1,78300342,78300698,356,1,,minus
+13397,Carcharodon carcharias,121275204,0,live,LOC121275204,,histone H2AX-like,histone H2AX-like,,1,NC_054467.1,120872723,120875130,2407,2,,minus
+13397,Carcharodon carcharias,121274892,0,live,LOC121274892,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274891,0,live,LOC121274891,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274890,0,live,LOC121274890,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274888,0,live,LOC121274888,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274879,0,live,LOC121274879,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274877,0,live,LOC121274877,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274875,0,live,LOC121274875,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274874,0,live,LOC121274874,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274872,0,live,LOC121274872,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274870,0,live,LOC121274870,,histone H2AX-like,histone H2AX-like,,39,,,,,,,
+13397,Carcharodon carcharias,121279789,0,live,LOC121279789,,histone H2AX-like,,,7,NC_054473.1,13346742,13347181,439,0,,minus
+13397,Carcharodon carcharias,121274543,0,live,LOC121274543,,histone H2AX-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121274546,0,live,LOC121274546,,histone H2B,histone H2B,,37,,,,,,,
+13397,Carcharodon carcharias,121274545,0,live,LOC121274545,,histone H2B,histone H2B,,37,,,,,,,
+13397,Carcharodon carcharias,121274544,0,live,LOC121274544,,histone H2B,histone H2B,,37,,,,,,,
+13397,Carcharodon carcharias,121274524,0,live,LOC121274524,,histone H2B,histone H2B,,37,,,,,,,
+13397,Carcharodon carcharias,121282106,0,live,LOC121282106,,histone H2B 1.1-like,LOW QUALITY PROTEIN: histone H2B 1.1-like,,9,NC_054475.1,42360313,42360702,389,1,,plus
+13397,Carcharodon carcharias,121274510,0,live,LOC121274510,,histone H2B 1.1-like,histone H2B 1.1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121291380,0,live,LOC121291380,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,19,NC_054485.1,110824737,110825093,356,1,,plus
+13397,Carcharodon carcharias,121288587,0,live,LOC121288587,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,2,NC_054468.1,183192418,183192798,380,1,,plus
+13397,Carcharodon carcharias,121287527,0,live,LOC121287527,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,14,NC_054480.1,46552080,46552460,380,1,,plus
+13397,Carcharodon carcharias,121282803,0,live,LOC121282803,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,10,NC_054476.1,15884513,15884893,380,1,,minus
+13397,Carcharodon carcharias,121279428,0,live,LOC121279428,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,6,NC_054472.1,151244175,151244531,356,1,,plus
+13397,Carcharodon carcharias,121276761,0,live,LOC121276761,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,4,NC_054470.1,86179841,86180197,356,1,,plus
+13397,Carcharodon carcharias,121268958,0,live,LOC121268958,,histone H2B 1/2/3/4/6-like,histone H2B 1/2/3/4/6-like,,23,NC_054489.1,28378596,28378952,356,1,,minus
+13397,Carcharodon carcharias,121276734,0,live,LOC121276734,,histone H2B 1/2/3/4/6-like,,,4,NC_054470.1,42697723,42698102,379,0,,plus
+13397,Carcharodon carcharias,121273007,0,live,LOC121273007,,histone H2B 1/2/3/4/6-like,,,2,NC_054468.1,62360399,62360755,356,0,,minus
+13397,Carcharodon carcharias,121282450,0,live,LOC121282450,,histone H2B 1/2-like,histone H2B 1/2-like,,9,NC_054475.1,96752882,96757187,4305,2,,minus
+13397,Carcharodon carcharias,121281421,0,live,LOC121281421,,histone H2B 1/2-like,histone H2B 1/2-like,,8,NC_054474.1,32282702,32283076,374,2,,minus
+13397,Carcharodon carcharias,121278825,0,live,LOC121278825,,histone H2B 1/2-like,,,6,NC_054472.1,121390580,121390952,372,0,,plus
+13397,Carcharodon carcharias,121273194,0,live,LOC121273194,,histone H2B 1/2-like,,,X,NC_054507.1,3572210,3572584,374,0,,plus
+13397,Carcharodon carcharias,121274504,0,live,LOC121274504,,histone H2B 1-like,histone H2B 1-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274558,0,live,LOC121274558,,histone H2B 5,histone H2B 5,,37,,,,,,,
+13397,Carcharodon carcharias,121274555,0,live,LOC121274555,,histone H2B 5,histone H2B 5,,37,,,,,,,
+13397,Carcharodon carcharias,121274554,0,live,LOC121274554,,histone H2B 5,histone H2B 5,,37,,,,,,,
+13397,Carcharodon carcharias,121288432,0,live,LOC121288432,,histone H2B 5-like,histone H2B 5-like,,15,NC_054481.1,101765805,101766179,374,1,,minus
+13397,Carcharodon carcharias,121286090,0,live,LOC121286090,,histone H2B 5-like,histone H2B 5-like,,13,NC_054479.1,81696691,81697087,396,2,,plus
+13397,Carcharodon carcharias,121283902,0,live,LOC121283902,,histone H2B 5-like,histone H2B 5-like,,11,NC_054477.1,92007369,92007749,380,2,,plus
+13397,Carcharodon carcharias,121283031,0,live,LOC121283031,,histone H2B 5-like,histone H2B 5-like,,10,NC_054476.1,10308695,10309093,398,1,,plus
+13397,Carcharodon carcharias,121282456,0,live,LOC121282456,,histone H2B 5-like,histone H2B 5-like,,9,NC_054475.1,114127782,114129054,1272,2,,plus
+13397,Carcharodon carcharias,121278339,0,live,LOC121278339,,histone H2B 5-like,histone H2B 5-like,,5,NC_054471.1,73466203,73466593,390,1,,minus
+13397,Carcharodon carcharias,121283446,0,live,LOC121283446,,histone H2B 7,histone H2B 7|histone H2B,,1,NC_054467.1,41723586,41725585,1999,2,,minus
+13397,Carcharodon carcharias,121291381,0,live,LOC121291381,,histone H2B 7-like,histone H2B 7-like,,19,NC_054485.1,111107885,111108235,350,1,,minus
+13397,Carcharodon carcharias,121291379,0,live,LOC121291379,,histone H2B 7-like,histone H2B 7-like,,19,NC_054485.1,111119482,111120021,539,1,,plus
+13397,Carcharodon carcharias,121291334,0,live,LOC121291334,,histone H2B 7-like,histone H2B 7-like,,19,NC_054485.1,110798555,110798964,409,1,,minus
+13397,Carcharodon carcharias,121290421,0,live,LOC121290421,,histone H2B 7-like,histone H2B 7-like,,18,NC_054484.1,28147187,28147504,317,1,,plus
+13397,Carcharodon carcharias,121289668,0,live,LOC121289668,,histone H2B 7-like,histone H2B 7-like,,17,NC_054483.1,83167496,83167873,377,1,,minus
+13397,Carcharodon carcharias,121287585,0,live,LOC121287585,,histone H2B 7-like,histone H2B 7-like,,14,NC_054480.1,116461342,116462848,1506,2,,minus
+13397,Carcharodon carcharias,121287509,0,live,LOC121287509,,histone H2B 7-like,histone H2B 7-like,,14,NC_054480.1,27480569,27480976,407,1,,plus
+13397,Carcharodon carcharias,121281459,0,live,LOC121281459,,histone H2B 7-like,histone H2B 7-like,,8,NC_054474.1,87506051,87506368,317,1,,minus
+13397,Carcharodon carcharias,121278809,0,live,LOC121278809,,histone H2B 7-like,histone H2B 7-like,,6,NC_054472.1,85525557,85526015,458,1,,minus
+13397,Carcharodon carcharias,121274941,0,live,LOC121274941,,histone H2B 7-like,histone H2B 7-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274940,0,live,LOC121274940,,histone H2B 7-like,histone H2B 7-like,,39,,,,,,,
+13397,Carcharodon carcharias,121272558,0,live,LOC121272558,,histone H2B 7-like,histone H2B 7-like,,34,NC_054500.1,16306092,16306469,377,2,,plus
+13397,Carcharodon carcharias,121283422,0,live,LOC121283422,,histone H2B 7-like,,,1,NC_054467.1,45677809,45678173,364,0,,minus
+13397,Carcharodon carcharias,121274923,0,live,LOC121274923,,histone H2B 7-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121291170,0,live,LOC121291170,,histone H2B type 1-A-like,histone H2B type 1-A-like,,19,NC_054485.1,21760500,21760868,368,1,,minus
+13397,Carcharodon carcharias,121289643,0,live,LOC121289643,,histone H2B type 1-A-like,histone H2B type 1-A-like,,17,NC_054483.1,60522351,60522893,542,1,,minus
+13397,Carcharodon carcharias,121289636,0,live,LOC121289636,,histone H2B type 1-A-like,histone H2B type 1-A-like,,17,NC_054483.1,53043692,53044066,374,1,,plus
+13397,Carcharodon carcharias,121288959,0,live,LOC121288959,,histone H2B type 1-A-like,histone H2B type 1-A-like,,16,NC_054482.1,82735583,82741850,6267,3,,minus
+13397,Carcharodon carcharias,121285112,0,live,LOC121285112,,histone H2B type 1-A-like,histone H2B type 1-A-like,,12,NC_054478.1,25766336,25766761,425,1,,minus
+13397,Carcharodon carcharias,121282824,0,live,LOC121282824,,histone H2B type 1-A-like,histone H2B type 1-A-like,,10,NC_054476.1,47621794,47622204,410,1,,plus
+13397,Carcharodon carcharias,121282461,0,live,LOC121282461,,histone H2B type 1-A-like,histone H2B type 1-A-like,,9,NC_054475.1,118900815,118901129,314,1,,plus
+13397,Carcharodon carcharias,121277717,0,live,LOC121277717,,histone H2B type 1-A-like,histone H2B type 1-A-like,,5,NC_054471.1,64139489,64139875,386,1,,plus
+13397,Carcharodon carcharias,121279310,0,live,LOC121279310,,histone H2B type 1-B-like,histone H2B type 1-B-like,,6,NC_054472.1,75150959,75151339,380,1,,plus
+13397,Carcharodon carcharias,121288636,0,live,LOC121288636,,histone H2B type 1-L-like,histone H2B type 1-L-like,,2,NC_054468.1,195532536,195532937,401,1,,plus
+13397,Carcharodon carcharias,121288359,0,live,LOC121288359,,histone H2B type 1-L-like,histone H2B type 1-L-like,,2,NC_054468.1,149337380,149337772,392,2,,plus
+13397,Carcharodon carcharias,121281469,0,live,LOC121281469,,histone H2B type 1-L-like,histone H2B type 1-L-like,,8,NC_054474.1,93978994,93979401,407,1,,plus
+13397,Carcharodon carcharias,121275989,0,live,LOC121275989,,histone H2B type 1-L-like,histone H2B type 1-L-like,,3,NC_054469.1,45449158,45449517,359,1,,plus
+13397,Carcharodon carcharias,121275987,0,live,LOC121275987,,histone H2B type 1-L-like,histone H2B type 1-L-like,,3,NC_054469.1,40772479,40772874,395,1,,plus
+13397,Carcharodon carcharias,121271947,0,live,LOC121271947,,histone H2B type 1-L-like,histone H2B type 1-L-like,,32,NC_054498.1,1588137,1588547,410,2,,plus
+13397,Carcharodon carcharias,121268956,0,live,LOC121268956,,histone H2B type 1-L-like,histone H2B type 1-L-like,,23,NC_054489.1,24719645,24719965,320,1,,plus
+13397,Carcharodon carcharias,121290494,0,live,LOC121290494,,histone H2B type 1-L-like,,,18,NC_054484.1,101115741,101116664,923,0,,minus
+13397,Carcharodon carcharias,121292327,0,live,LOC121292327,,histone H2B type 1-M-like,histone H2B type 1-M-like,,20,NC_054486.1,49352370,49352837,467,1,,minus
+13397,Carcharodon carcharias,121287521,0,live,LOC121287521,,histone H2B type 1-M-like,histone H2B type 1-M-like,,14,NC_054480.1,42518922,42519771,849,2,,plus
+13397,Carcharodon carcharias,121274550,0,live,LOC121274550,,histone H2B type 1-M-like,histone H2B type 1-M-like,,37,,,,,,,
+13397,Carcharodon carcharias,121276471,0,live,LOC121276471,,histone H2B type 1-O-like,histone H2B type 1-O-like,,3,NC_054469.1,116489541,116489921,380,1,,plus
+13397,Carcharodon carcharias,121274880,0,live,LOC121274880,,histone H2B type 1-O-like,histone H2B type 1-O-like,,39,,,,,,,
+13397,Carcharodon carcharias,121276716,0,live,LOC121276716,,histone H2B type 1-P-like,histone H2B type 1-P-like,,4,NC_054470.1,18807671,18807994,323,1,,plus
+13397,Carcharodon carcharias,121275318,0,live,LOC121275318,,histone H2B type 1-P-like,histone H2B type 1-P-like,,1,NC_054467.1,129932377,129932756,379,2,,plus
+13397,Carcharodon carcharias,121288947,0,live,LOC121288947,,histone H2B type 2-E-like,histone H2B type 2-E-like,,16,NC_054482.1,56089970,56125625,35655,3,,minus
+13397,Carcharodon carcharias,121288672,0,live,LOC121288672,,histone H2B type 2-E-like,histone H2B type 2-E-like,,2,NC_054468.1,205181521,205181889,368,1,,plus
+13397,Carcharodon carcharias,121268970,0,live,LOC121268970,,histone H2B type 2-E-like,histone H2B type 2-E-like,,23,NC_054489.1,40825560,40825922,362,1,,plus
+13397,Carcharodon carcharias,121271321,0,live,LOC121271321,,"histone H2B.1, embryonic-like","histone H2B.1, embryonic-like",,1,NC_054467.1,50522871,50527966,5095,3,,plus
+13397,Carcharodon carcharias,121282849,0,live,LOC121282849,,histone H2B.1-like,histone H2B.1-like,,10,NC_054476.1,86023122,86056391,33269,3,,minus
+13397,Carcharodon carcharias,121280008,0,live,LOC121280008,,histone H2B.1-like,histone H2B.1-like,,7,NC_054473.1,82825569,82977390,151821,4,,minus
+13397,Carcharodon carcharias,121293665,0,live,LOC121293665,,histone H2B-like,histone H2B-like,,22,NC_054488.1,44291947,44292300,353,1,,minus
+13397,Carcharodon carcharias,121292410,0,live,LOC121292410,,histone H2B-like,histone H2B-like,,20,NC_054486.1,59414359,59414750,391,1,,plus
+13397,Carcharodon carcharias,121292333,0,live,LOC121292333,,histone H2B-like,histone H2B-like,,20,NC_054486.1,61068866,61069281,415,2,,plus
+13397,Carcharodon carcharias,121291275,0,live,LOC121291275,,histone H2B-like,histone H2B-like,,19,NC_054485.1,89339844,89343567,3723,2,,plus
+13397,Carcharodon carcharias,121290495,0,live,LOC121290495,,histone H2B-like,histone H2B-like,,18,NC_054484.1,101806470,101806844,374,1,,minus
+13397,Carcharodon carcharias,121289674,0,live,LOC121289674,,histone H2B-like,histone H2B-like,,17,NC_054483.1,87871338,87872063,725,2,,plus
+13397,Carcharodon carcharias,121288555,0,live,LOC121288555,,histone H2B-like,histone H2B-like,,2,NC_054468.1,181141246,181141596,350,1,,minus
+13397,Carcharodon carcharias,121288532,0,live,LOC121288532,,histone H2B-like,histone H2B-like,,2,NC_054468.1,176893949,176894323,374,1,,plus
+13397,Carcharodon carcharias,121288513,0,live,LOC121288513,,histone H2B-like,histone H2B-like,,2,NC_054468.1,171494771,171495145,374,1,,minus
+13397,Carcharodon carcharias,121288506,0,live,LOC121288506,,histone H2B-like,histone H2B-like,,2,NC_054468.1,171192097,171192489,392,1,,plus
+13397,Carcharodon carcharias,121288474,0,live,LOC121288474,,histone H2B-like,histone H2B-like,,15,NC_054481.1,126010461,126010847,386,1,,minus
+13397,Carcharodon carcharias,121288388,0,live,LOC121288388,,histone H2B-like,histone H2B-like,,15,NC_054481.1,67523747,67545678,21931,2,,minus
+13397,Carcharodon carcharias,121288381,0,live,LOC121288381,,histone H2B-like,histone H2B-like,,2,NC_054468.1,152813989,152815759,1770,2,,minus
+13397,Carcharodon carcharias,121288356,0,live,LOC121288356,,histone H2B-like,histone H2B-like,,15,NC_054481.1,31731797,31732165,368,1,,minus
+13397,Carcharodon carcharias,121287034,0,live,LOC121287034,,histone H2B-like,histone H2B-like,,2,NC_054468.1,17936120,17936539,419,1,,plus
+13397,Carcharodon carcharias,121287027,0,live,LOC121287027,,histone H2B-like,histone H2B-like,,2,NC_054468.1,17346675,17347151,476,1,,plus
+13397,Carcharodon carcharias,121284729,0,live,LOC121284729,,histone H2B-like,histone H2B-like,,12,NC_054478.1,130762244,130762663,419,1,,minus
+13397,Carcharodon carcharias,121283934,0,live,LOC121283934,,histone H2B-like,histone H2B-like,,11,NC_054477.1,143423546,143423920,374,1,,plus
+13397,Carcharodon carcharias,121283918,0,live,LOC121283918,,histone H2B-like,histone H2B-like,,11,NC_054477.1,113306940,113330053,23113,4,,minus
+13397,Carcharodon carcharias,121283900,0,live,LOC121283900,,histone H2B-like,histone H2B-like,,11,NC_054477.1,84596334,84596705,371,2,,plus
+13397,Carcharodon carcharias,121283892,0,live,LOC121283892,,histone H2B-like,histone H2B-like,,11,NC_054477.1,72726715,72728965,2250,2,,plus
+13397,Carcharodon carcharias,121283887,0,live,LOC121283887,,histone H2B-like,histone H2B-like,,11,NC_054477.1,64213551,64214060,509,2,,minus
+13397,Carcharodon carcharias,121283882,0,live,LOC121283882,,histone H2B-like,histone H2B-like,,11,NC_054477.1,55278234,55278608,374,1,,plus
+13397,Carcharodon carcharias,121282474,0,live,LOC121282474,,histone H2B-like,histone H2B-like,,9,NC_054475.1,128985326,128985691,365,1,,plus
+13397,Carcharodon carcharias,121280047,0,live,LOC121280047,,histone H2B-like,histone H2B-like,,7,NC_054473.1,128211987,128212385,398,1,,minus
+13397,Carcharodon carcharias,121278065,0,live,LOC121278065,,histone H2B-like,histone H2B-like,,5,NC_054471.1,105469461,105469835,374,1,,minus
+13397,Carcharodon carcharias,121277727,0,live,LOC121277727,,histone H2B-like,histone H2B-like,,5,NC_054471.1,98702262,98702971,709,2,,minus
+13397,Carcharodon carcharias,121277528,0,live,LOC121277528,,histone H2B-like,histone H2B-like,,1,NC_054467.1,11865995,11866369,374,1,,minus
+13397,Carcharodon carcharias,121276794,0,live,LOC121276794,,histone H2B-like,histone H2B-like,,4,NC_054470.1,141632171,141632650,479,1,,plus
+13397,Carcharodon carcharias,121276737,0,live,LOC121276737,,histone H2B-like,histone H2B-like,,4,NC_054470.1,48767020,48767394,374,1,,plus
+13397,Carcharodon carcharias,121276025,0,live,LOC121276025,,histone H2B-like,histone H2B-like,,3,NC_054469.1,91532093,91532476,383,1,,plus
+13397,Carcharodon carcharias,121276014,0,live,LOC121276014,,histone H2B-like,histone H2B-like,,3,NC_054469.1,76347439,76347825,386,1,,plus
+13397,Carcharodon carcharias,121275853,0,live,LOC121275853,,histone H2B-like,histone H2B-like,,1,NC_054467.1,230606934,230607308,374,1,,minus
+13397,Carcharodon carcharias,121275781,0,live,LOC121275781,,histone H2B-like,histone H2B-like,,1,NC_054467.1,205723297,205723686,389,1,,minus
+13397,Carcharodon carcharias,121275322,0,live,LOC121275322,,histone H2B-like,histone H2B-like,,1,NC_054467.1,129968287,129988840,20553,4,,plus
+13397,Carcharodon carcharias,121274907,0,live,LOC121274907,,histone H2B-like,histone H2B-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274885,0,live,LOC121274885,,histone H2B-like,histone H2B-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274863,0,live,LOC121274863,,histone H2B-like,histone H2B-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274556,0,live,LOC121274556,,histone H2B-like,histone H2B-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274549,0,live,LOC121274549,,histone H2B-like,histone H2B-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274547,0,live,LOC121274547,,histone H2B-like,histone H2B-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274523,0,live,LOC121274523,,histone H2B-like,histone H2B-like,,37,,,,,,,
+13397,Carcharodon carcharias,121273209,0,live,LOC121273209,,histone H2B-like,histone H2B-like,,X,NC_054507.1,18173606,18173980,374,1,,minus
+13397,Carcharodon carcharias,121269502,0,live,LOC121269502,,histone H2B-like,histone H2B-like,,25,NC_054491.1,8929442,8929777,335,1,,plus
+13397,Carcharodon carcharias,121269351,0,live,LOC121269351,,histone H2B-like,histone H2B-like,,24,NC_054490.1,17022017,17022391,374,1,,minus
+13397,Carcharodon carcharias,121291310,0,live,LOC121291310,,histone H2B-like,,,19,NC_054485.1,105769535,105771488,1953,0,,plus
+13397,Carcharodon carcharias,121279116,0,live,LOC121279116,,histone H2B-like,,,6,NC_054472.1,88499931,88502929,2998,0,,minus
+13397,Carcharodon carcharias,121278838,0,live,LOC121278838,,histone H2B-like,,,6,NC_054472.1,143197342,143197720,378,0,,plus
+13397,Carcharodon carcharias,121276087,0,live,LOC121276087,,histone H2B-like,,,3,NC_054469.1,218318431,218318796,365,0,,minus
+13397,Carcharodon carcharias,121270009,0,live,LOC121270009,,histone H2B-like,,,26,NC_054492.1,19316148,19316538,390,0,,plus
+13397,Carcharodon carcharias,121274912,0,live,LOC121274912,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274910,0,live,LOC121274910,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274908,0,live,LOC121274908,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274867,0,live,LOC121274867,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274865,0,live,LOC121274865,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274864,0,live,LOC121274864,,histone H3,histone H3,,39,,,,,,,
+13397,Carcharodon carcharias,121274527,0,live,LOC121274527,,histone H3,histone H3,,37,,,,,,,
+13397,Carcharodon carcharias,121274525,0,live,LOC121274525,,histone H3,histone H3,,37,,,,,,,
+13397,Carcharodon carcharias,121281584,0,live,haspin,,histone H3 associated protein kinase,uncharacterized protein haspin,,1,NC_054467.1,115673830,115731867,58037,15,,plus
+13397,Carcharodon carcharias,121290726,0,live,LOC121290726,,"histone H3, embryonic-like","histone H3, embryonic-like",,18,NC_054484.1,118000293,118000574,281,1,,minus
+13397,Carcharodon carcharias,121274529,0,live,LOC121274529,,"histone H3, embryonic-like","histone H3, embryonic-like",,37,,,,,,,
+13397,Carcharodon carcharias,121274528,0,live,LOC121274528,,"histone H3, embryonic-like","histone H3, embryonic-like",,37,,,,,,,
+13397,Carcharodon carcharias,121269031,0,live,LOC121269031,,"histone H3, embryonic-like",,,23,NC_054489.1,47245119,47245529,410,0,,plus
+13397,Carcharodon carcharias,121293407,0,live,LOC121293407,,histone H3.2-like,,,21,NC_054487.1,4934407,4934820,413,0,,plus
+13397,Carcharodon carcharias,121293701,0,live,LOC121293701,,histone H3.3A,histone H3.3A,,22,NC_054488.1,25169129,25175902,6773,4,,plus
+13397,Carcharodon carcharias,121288702,0,live,LOC121288702,,histone H3.3A,histone H3.3A,,15,NC_054481.1,64441080,64443581,2501,4,,plus
+13397,Carcharodon carcharias,121278042,0,live,LOC121278042,,histone H3.3A,histone H3.3A,,5,NC_054471.1,26415979,26426749,10770,4,,plus
+13397,Carcharodon carcharias,121273504,0,live,LOC121273504,,histone H3.3A-like,histone H3.3A-like,,24,,,,,,,
+13397,Carcharodon carcharias,121273528,0,live,LOC121273528,,histone H3.3A-like,,,24,,,,,,,
+13397,Carcharodon carcharias,121290506,0,live,LOC121290506,,histone H3.3C-like,histone H3.3C-like,,18,NC_054484.1,116756243,116756925,682,2,,minus
+13397,Carcharodon carcharias,121293239,0,live,LOC121293239,,histone H3.3-like,,,21,NC_054487.1,3969176,3969587,411,0,,plus
+13397,Carcharodon carcharias,121293188,0,live,LOC121293188,,histone H3.3-like,,,21,NC_054487.1,5197490,5197900,410,0,,minus
+13397,Carcharodon carcharias,121273548,0,live,LOC121273548,,histone H3.3-like,,,24,,,,,,,
+13397,Carcharodon carcharias,121273516,0,live,LOC121273516,,histone H3.3-like,,,24,,,,,,,
+13397,Carcharodon carcharias,121274854,0,live,LOC121274854,,histone H3-like,"histone H2A-beta, sperm-like|histone H3-like|uncharacterized protein LOC121274854",,39,,,,,,,
+13397,Carcharodon carcharias,121274569,0,live,LOC121274569,,histone H3-like,histone H3-like,,37,,,,,,,
+13397,Carcharodon carcharias,121291378,0,live,LOC121291378,,histone H3-like,histone H3-like,,19,NC_054485.1,110826010,110826420,410,1,,plus
+13397,Carcharodon carcharias,121274918,0,live,LOC121274918,,histone H3-like,histone H3-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274861,0,live,LOC121274861,,histone H3-like,histone H3-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274600,0,live,LOC121274600,,histone H3-like,histone H3-like,,37,,,,,,,
+13397,Carcharodon carcharias,121293044,0,live,LOC121293044,,histone H3-like,,,21,NC_054487.1,24338426,24338824,398,0,,plus
+13397,Carcharodon carcharias,121274868,0,live,LOC121274868,,histone H3-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121274862,0,live,LOC121274862,,histone H3-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121291824,0,live,LOC121291824,,histone H3-like centromeric protein A,histone H3-like centromeric protein A,,19,NC_054485.1,104577728,104591661,13933,5,,plus
+13397,Carcharodon carcharias,121290597,0,live,LOC121290597,,histone H4,histone H4,,18,NC_054484.1,34427276,34428238,962,1,,plus
+13397,Carcharodon carcharias,121274887,0,live,LOC121274887,,histone H4,histone H4,,39,,,,,,,
+13397,Carcharodon carcharias,121274568,0,live,LOC121274568,,histone H4,histone H4,,37,,,,,,,
+13397,Carcharodon carcharias,121274564,0,live,LOC121274564,,histone H4,histone H4,,37,,,,,,,
+13397,Carcharodon carcharias,121274563,0,live,LOC121274563,,histone H4,histone H4,,37,,,,,,,
+13397,Carcharodon carcharias,121269560,0,live,LOC121269560,,histone H4 transcription factor,histone H4 transcription factor,,25,NC_054491.1,16528484,16551961,23477,13,,plus
+13397,Carcharodon carcharias,121294016,0,live,LOC121294016,,histone H4 type VIII-like,,,23,NC_054489.1,4706396,4706806,410,0,,minus
+13397,Carcharodon carcharias,121274914,0,live,LOC121274914,,histone H4 type VIII-like,,,39,,,,,,,
+13397,Carcharodon carcharias,121293653,0,live,LOC121293653,,histone H4-like,histone H4-like,,22,NC_054488.1,28976107,28976441,334,1,,plus
+13397,Carcharodon carcharias,121293063,0,live,LOC121293063,,histone H4-like,histone H4-like,,21,NC_054487.1,53012069,53012368,299,1,,plus
+13397,Carcharodon carcharias,121292347,0,live,LOC121292347,,histone H4-like,histone H4-like,,20,NC_054486.1,74898751,74899074,323,1,,minus
+13397,Carcharodon carcharias,121292329,0,live,LOC121292329,,histone H4-like,histone H4-like,,20,NC_054486.1,51462697,51462999,302,1,,minus
+13397,Carcharodon carcharias,121291687,0,live,LOC121291687,,histone H4-like,histone H4-like,,19,NC_054485.1,655154,655519,365,1,,plus
+13397,Carcharodon carcharias,121291384,0,live,LOC121291384,,histone H4-like,histone H4-like,,19,NC_054485.1,111162749,111163060,311,1,,plus
+13397,Carcharodon carcharias,121291383,0,live,LOC121291383,,histone H4-like,histone H4-like,,19,NC_054485.1,111112943,111113254,311,1,,minus
+13397,Carcharodon carcharias,121291382,0,live,LOC121291382,,histone H4-like,histone H4-like,,19,NC_054485.1,110810386,110810736,350,1,,minus
+13397,Carcharodon carcharias,121289682,0,live,LOC121289682,,histone H4-like,histone H4-like,,17,NC_054483.1,94569676,94569951,275,1,,minus
+13397,Carcharodon carcharias,121287578,0,live,LOC121287578,,histone H4-like,histone H4-like,,14,NC_054480.1,110268172,110268522,350,1,,plus
+13397,Carcharodon carcharias,121287502,0,live,LOC121287502,,histone H4-like,histone H4-like,,14,NC_054480.1,22336852,22337163,311,1,,plus
+13397,Carcharodon carcharias,121285900,0,live,LOC121285900,,histone H4-like,histone H4-like,,13,NC_054479.1,31413857,31414168,311,1,,minus
+13397,Carcharodon carcharias,121283914,0,live,LOC121283914,,histone H4-like,histone H4-like,,11,NC_054477.1,105505059,105506160,1101,2,,minus
+13397,Carcharodon carcharias,121280024,0,live,LOC121280024,,histone H4-like,histone H4-like,,7,NC_054473.1,103806321,103808392,2071,2,,plus
+13397,Carcharodon carcharias,121279695,0,live,LOC121279695,,histone H4-like,histone H4-like,,7,NC_054473.1,107153873,107154184,311,1,,plus
+13397,Carcharodon carcharias,121278873,0,live,LOC121278873,,histone H4-like,histone H4-like,,6,NC_054472.1,195671689,195672000,311,1,,minus
+13397,Carcharodon carcharias,121276750,0,live,LOC121276750,,histone H4-like,histone H4-like,,4,NC_054470.1,64927172,64927483,311,1,,minus
+13397,Carcharodon carcharias,121276086,0,live,LOC121276086,,histone H4-like,histone H4-like,,3,NC_054469.1,218019989,218020300,311,1,,minus
+13397,Carcharodon carcharias,121275845,0,live,LOC121275845,,histone H4-like,histone H4-like,,1,NC_054467.1,228634724,228635026,302,1,,minus
+13397,Carcharodon carcharias,121275802,0,live,LOC121275802,,histone H4-like,histone H4-like,,3,NC_054469.1,13252698,13253006,308,1,,plus
+13397,Carcharodon carcharias,121275764,0,live,LOC121275764,,histone H4-like,histone H4-like,,3,NC_054469.1,3939986,3940360,374,1,,minus
+13397,Carcharodon carcharias,121275367,0,live,LOC121275367,,histone H4-like,histone H4-like,,1,NC_054467.1,138218671,138218982,311,1,,plus
+13397,Carcharodon carcharias,121274561,0,live,LOC121274561,,histone H4-like,histone H4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274505,0,live,LOC121274505,,histone H4-like,histone H4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274487,0,live,LOC121274487,,histone H4-like,histone H4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121272398,0,live,LOC121272398,,histone H4-like,histone H4-like,,33,NC_054499.1,17061341,17062230,889,2,,minus
+13397,Carcharodon carcharias,121270761,0,live,LOC121270761,,histone H4-like,histone H4-like,,28,NC_054494.1,38929361,38929651,290,1,,plus
+13397,Carcharodon carcharias,121269668,0,live,LOC121269668,,histone H4-like,histone H4-like,,25,NC_054491.1,35947897,35948293,396,1,,plus
+13397,Carcharodon carcharias,121288887,0,live,LOC121288887,,histone H4-like,,,16,NC_054482.1,28472290,28472600,310,0,,minus
+13397,Carcharodon carcharias,121288464,0,live,LOC121288464,,histone H4-like,,,15,NC_054481.1,119035462,119042344,6882,0,,minus
+13397,Carcharodon carcharias,121281856,0,live,LOC121281856,,histone H4-like,,,9,NC_054475.1,136019862,136020164,302,0,,plus
+13397,Carcharodon carcharias,121274565,0,live,LOC121274565,,histone H4-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121274562,0,live,LOC121274562,,histone H4-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121274501,0,live,LOC121274501,,histone H4-like,,,37,,,,,,,
+13397,Carcharodon carcharias,121276879,0,live,LOC121276879,,histone PARylation factor 1,histone PARylation factor 1,,4,NC_054470.1,185798137,185822221,24084,8,,plus
+13397,Carcharodon carcharias,121291697,0,live,LOC121291697,,histone-binding protein RBBP4,histone-binding protein RBBP4,,19,NC_054485.1,563023,615556,52533,13,,minus
+13397,Carcharodon carcharias,121290582,0,live,LOC121290582,,histone-binding protein RBBP7,histone-binding protein RBBP7,,18,NC_054484.1,103501325,103541474,40149,12,,plus
+13397,Carcharodon carcharias,121271533,0,live,LOC121271533,,histone-lysine N-methyltransferase KMT5C-like,histone-lysine N-methyltransferase KMT5C-like,,31,NC_054497.1,4726342,4749337,22995,9,,plus
+13397,Carcharodon carcharias,121283143,0,live,LOC121283143,,histone-lysine N-methyltransferase PRDM9-like,histone-lysine N-methyltransferase PRDM9-like,,10,NC_054476.1,20822441,20864013,41572,13,,minus
+13397,Carcharodon carcharias,121270420,0,live,LOC121270420,,histone-lysine N-methyltransferase PRDM9-like,LOW QUALITY PROTEIN: histone-lysine N-methyltransferase PRDM9-like,,27,NC_054493.1,12295797,12297664,1867,2,,plus
+13397,Carcharodon carcharias,121274816,0,live,LOC121274816,,histone-lysine N-methyltransferase SETD1A-like,histone-lysine N-methyltransferase SETD1A-like,,38,,,,,,,
+13397,Carcharodon carcharias,121274813,0,live,LOC121274813,,histone-lysine N-methyltransferase SETD1A-like,histone-lysine N-methyltransferase SETD1A-like,,38,,,,,,,
+13397,Carcharodon carcharias,121274328,0,live,LOC121274328,,histone-lysine N-methyltransferase SETDB1-like,histone-lysine N-methyltransferase SETDB1-like,,36,,,,,,,
+13397,Carcharodon carcharias,121274327,0,live,LOC121274327,,histone-lysine N-methyltransferase SETDB1-like,histone-lysine N-methyltransferase SETDB1-like,,36,,,,,,,
+13397,Carcharodon carcharias,121281837,0,live,LOC121281837,,histone-lysine N-methyltransferase Smyd1-like,histone-lysine N-methyltransferase Smyd1-like,,1,NC_054467.1,244491245,244574141,82896,10,,minus
+13397,Carcharodon carcharias,121286197,0,live,LOC121286197,,histone-lysine N-methyltransferase SUV39H2-like,histone-lysine N-methyltransferase SUV39H2-like,,13,NC_054479.1,142422300,142460693,38393,7,,plus
+13397,Carcharodon carcharias,121290203,0,live,jmjd1cb,,jumonji domain containing 1Cb,probable JmjC domain-containing histone demethylation protein 2C,,17,NC_054483.1,48883273,49187714,304441,27,,plus
+13397,Carcharodon carcharias,121269101,0,live,kat2a,,K(lysine) acetyltransferase 2A,histone acetyltransferase KAT2A,,23,NC_054489.1,16159251,16221356,62105,18,,minus
+13397,Carcharodon carcharias,121275818,0,live,kat2b,,K(lysine) acetyltransferase 2B,histone acetyltransferase KAT2B,,3,NC_054469.1,77724514,77852233,127719,19,,minus
+13397,Carcharodon carcharias,121270776,0,live,kat6b,,K(lysine) acetyltransferase 6B,histone acetyltransferase KAT6B,,28,NC_054494.1,21657325,21828232,170907,18,,minus
+13397,Carcharodon carcharias,121269020,0,live,kat7b,,K(lysine) acetyltransferase 7b,histone acetyltransferase KAT7,,23,NC_054489.1,27840005,27939254,99249,16,,minus
+13397,Carcharodon carcharias,121274780,0,live,kat8,,K(lysine) acetyltransferase 8,histone acetyltransferase KAT8,,38,,,,,,,
+13397,Carcharodon carcharias,121287510,0,live,l3mbtl1,,L3MBTL histone methyl-lysine binding protein 1,lethal(3)malignant brain tumor-like protein 1,,14,NC_054480.1,28522660,28575030,52370,16,,plus
+13397,Carcharodon carcharias,121291859,0,live,l3mbtl1b,,L3MBTL histone methyl-lysine binding protein 1b,lethal(3)malignant brain tumor-like protein 4,,19,NC_054485.1,11182023,11253084,71061,24,,minus
+13397,Carcharodon carcharias,121271672,0,live,l3mbtl2,,L3MBTL histone methyl-lysine binding protein 2,lethal(3)malignant brain tumor-like protein 2,,31,NC_054497.1,27636111,27817366,181255,26,,minus
+13397,Carcharodon carcharias,121278158,0,live,l3mbtl3,,L3MBTL histone methyl-lysine binding protein 3,lethal(3)malignant brain tumor-like protein 3,,5,NC_054471.1,120977406,121163245,185839,26,,minus
+13397,Carcharodon carcharias,121269520,0,live,LOC121269520,,late histone H2A.2.2,late histone H2A.2.2,,25,NC_054491.1,16692628,16693194,566,1,,plus
+13397,Carcharodon carcharias,121274542,0,live,LOC121274542,,late histone H2A.2.2-like,late histone H2A.2.2-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274502,0,live,LOC121274502,,late histone H2A.2.2-like,late histone H2A.2.2-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274521,0,live,LOC121274521,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121293646,0,live,LOC121293646,,late histone H2B.L4-like,late histone H2B.L4-like,,22,NC_054488.1,17079212,17079586,374,1,,minus
+13397,Carcharodon carcharias,121291338,0,live,LOC121291338,,late histone H2B.L4-like,late histone H2B.L4-like,,19,NC_054485.1,110842650,110843036,386,1,,minus
+13397,Carcharodon carcharias,121289644,0,live,LOC121289644,,late histone H2B.L4-like,late histone H2B.L4-like,,17,NC_054483.1,60574954,60575720,766,2,,minus
+13397,Carcharodon carcharias,121288628,0,live,LOC121288628,,late histone H2B.L4-like,late histone H2B.L4-like,,2,NC_054468.1,195435849,195450702,14853,2,,plus
+13397,Carcharodon carcharias,121288525,0,live,LOC121288525,,late histone H2B.L4-like,late histone H2B.L4-like,,2,NC_054468.1,175604544,175604912,368,1,,minus
+13397,Carcharodon carcharias,121288456,0,live,LOC121288456,,late histone H2B.L4-like,late histone H2B.L4-like,,15,NC_054481.1,111269065,111269466,401,1,,plus
+13397,Carcharodon carcharias,121287447,0,live,LOC121287447,,late histone H2B.L4-like,late histone H2B.L4-like,,2,NC_054468.1,62230036,62230410,374,1,,plus
+13397,Carcharodon carcharias,121285076,0,live,LOC121285076,,late histone H2B.L4-like,late histone H2B.L4-like,,12,NC_054478.1,418564,418941,377,1,,plus
+13397,Carcharodon carcharias,121284693,0,live,LOC121284693,,late histone H2B.L4-like,late histone H2B.L4-like,,12,NC_054478.1,79736740,79757385,20645,2,,plus
+13397,Carcharodon carcharias,121283923,0,live,LOC121283923,,late histone H2B.L4-like,late histone H2B.L4-like,,11,NC_054477.1,120070205,120070567,362,1,,minus
+13397,Carcharodon carcharias,121283920,0,live,LOC121283920,,late histone H2B.L4-like,late histone H2B.L4-like,,11,NC_054477.1,114777722,114778132,410,1,,plus
+13397,Carcharodon carcharias,121283915,0,live,LOC121283915,,late histone H2B.L4-like,late histone H2B.L4-like,,11,NC_054477.1,107768224,107768610,386,1,,minus
+13397,Carcharodon carcharias,121282867,0,live,LOC121282867,,late histone H2B.L4-like,late histone H2B.L4-like,,10,NC_054476.1,121226667,121227062,395,1,,plus
+13397,Carcharodon carcharias,121282463,0,live,LOC121282463,,late histone H2B.L4-like,late histone H2B.L4-like,,9,NC_054475.1,123422892,123424350,1458,2,,plus
+13397,Carcharodon carcharias,121282455,0,live,LOC121282455,,late histone H2B.L4-like,late histone H2B.L4-like,,9,NC_054475.1,111628897,111629283,386,1,,plus
+13397,Carcharodon carcharias,121281458,0,live,LOC121281458,,late histone H2B.L4-like,late histone H2B.L4-like,,8,NC_054474.1,86559467,86562162,2695,2,,minus
+13397,Carcharodon carcharias,121281452,0,live,LOC121281452,,late histone H2B.L4-like,late histone H2B.L4-like,,8,NC_054474.1,73224395,73224769,374,1,,minus
+13397,Carcharodon carcharias,121281427,0,live,LOC121281427,,late histone H2B.L4-like,late histone H2B.L4-like,,8,NC_054474.1,39522489,39522914,425,1,,minus
+13397,Carcharodon carcharias,121278805,0,live,LOC121278805,,late histone H2B.L4-like,late histone H2B.L4-like,,6,NC_054472.1,76912331,76914520,2189,2,,minus
+13397,Carcharodon carcharias,121277786,0,live,LOC121277786,,late histone H2B.L4-like,late histone H2B.L4-like,,5,NC_054471.1,175903449,175903820,371,1,,plus
+13397,Carcharodon carcharias,121277740,0,live,LOC121277740,,late histone H2B.L4-like,late histone H2B.L4-like,,5,NC_054471.1,115938274,115938660,386,1,,plus
+13397,Carcharodon carcharias,121276764,0,live,LOC121276764,,late histone H2B.L4-like,late histone H2B.L4-like,,4,NC_054470.1,91343492,91343857,365,1,,minus
+13397,Carcharodon carcharias,121276745,0,live,LOC121276745,,late histone H2B.L4-like,late histone H2B.L4-like,,4,NC_054470.1,55052370,55071706,19336,2,,plus
+13397,Carcharodon carcharias,121276071,0,live,LOC121276071,,late histone H2B.L4-like,late histone H2B.L4-like,,3,NC_054469.1,200721271,200736736,15465,2,,minus
+13397,Carcharodon carcharias,121275716,0,live,LOC121275716,,late histone H2B.L4-like,late histone H2B.L4-like,,3,NC_054469.1,125711070,125711450,380,1,,minus
+13397,Carcharodon carcharias,121275647,0,live,LOC121275647,,late histone H2B.L4-like,late histone H2B.L4-like,,1,NC_054467.1,169315493,169315879,386,1,,plus
+13397,Carcharodon carcharias,121275109,0,live,LOC121275109,,late histone H2B.L4-like,late histone H2B.L4-like,,1,NC_054467.1,115970650,115971027,377,1,,minus
+13397,Carcharodon carcharias,121274886,0,live,LOC121274886,,late histone H2B.L4-like,late histone H2B.L4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274884,0,live,LOC121274884,,late histone H2B.L4-like,late histone H2B.L4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274883,0,live,LOC121274883,,late histone H2B.L4-like,late histone H2B.L4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274882,0,live,LOC121274882,,late histone H2B.L4-like,late histone H2B.L4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274881,0,live,LOC121274881,,late histone H2B.L4-like,late histone H2B.L4-like,,39,,,,,,,
+13397,Carcharodon carcharias,121274679,0,live,LOC121274679,,late histone H2B.L4-like,late histone H2B.L4-like,,1,NC_054467.1,107850232,107850618,386,1,,plus
+13397,Carcharodon carcharias,121274581,0,live,LOC121274581,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274560,0,live,LOC121274560,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274559,0,live,LOC121274559,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274557,0,live,LOC121274557,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274553,0,live,LOC121274553,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274552,0,live,LOC121274552,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274551,0,live,LOC121274551,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121274499,0,live,LOC121274499,,late histone H2B.L4-like,late histone H2B.L4-like,,37,,,,,,,
+13397,Carcharodon carcharias,121273205,0,live,LOC121273205,,late histone H2B.L4-like,late histone H2B.L4-like,,X,NC_054507.1,16147340,16147789,449,1,,minus
+13397,Carcharodon carcharias,121270422,0,live,LOC121270422,,late histone H2B.L4-like,late histone H2B.L4-like,,1,NC_054467.1,39755984,39795976,39992,2,,minus
+13397,Carcharodon carcharias,121269862,0,live,LOC121269862,,late histone H2B.L4-like,late histone H2B.L4-like,,26,NC_054492.1,27151765,27152142,377,1,,minus
+13397,Carcharodon carcharias,121269860,0,live,LOC121269860,,late histone H2B.L4-like,late histone H2B.L4-like,,26,NC_054492.1,26248045,26248482,437,1,,plus
+13397,Carcharodon carcharias,121269586,0,live,LOC121269586,,late histone H2B.L4-like,late histone H2B.L4-like,,25,NC_054491.1,34179546,34179914,368,1,,minus
+13397,Carcharodon carcharias,121288492,0,live,LOC121288492,,late histone H2B.L4-like,,,2,NC_054468.1,170928152,170929001,849,0,,minus
+13397,Carcharodon carcharias,121287317,0,live,LOC121287317,,late histone H2B.L4-like,,,2,NC_054468.1,46851486,46851855,369,0,,plus
+13397,Carcharodon carcharias,121286040,0,live,LOC121286040,,late histone H2B.L4-like,,,13,NC_054479.1,49124273,49124737,464,0,,plus
+13397,Carcharodon carcharias,121278813,0,live,LOC121278813,,late histone H2B.L4-like,,,6,NC_054472.1,90201431,90201818,387,0,,minus
+13397,Carcharodon carcharias,121276376,0,live,LOC121276376,,late histone H2B.L4-like,,,3,NC_054469.1,30487059,30487438,379,0,,plus
+13397,Carcharodon carcharias,121276015,0,live,LOC121276015,,late histone H2B.L4-like,,,3,NC_054469.1,76360450,76360940,490,0,,plus
+13397,Carcharodon carcharias,121275340,0,live,LOC121275340,,late histone H2B.L4-like,,,1,NC_054467.1,135567390,135567766,376,0,,minus
+13397,Carcharodon carcharias,121291479,0,live,kdm1a,,lysine (K)-specific demethylase 1a,lysine-specific histone demethylase 1A,,19,NC_054485.1,13417148,13486787,69639,22,,plus
+13397,Carcharodon carcharias,121269676,0,live,kmt2a,,lysine (K)-specific methyltransferase 2A,histone-lysine N-methyltransferase 2A,,25,NC_054491.1,20394335,20544908,150573,36,,minus
+13397,Carcharodon carcharias,121274026,0,live,kmt2bb,,lysine (K)-specific methyltransferase 2Bb,histone-lysine N-methyltransferase 2B,,29,,,,,,,
+13397,Carcharodon carcharias,121276205,0,live,kmt2ca,,lysine (K)-specific methyltransferase 2Ca,histone-lysine N-methyltransferase 2C,,3,NC_054469.1,27149768,27621698,471930,62,,minus
+13397,Carcharodon carcharias,121273310,0,live,kmt2d,,lysine (K)-specific methyltransferase 2D,histone-lysine N-methyltransferase 2D,,X,NC_054507.1,20464622,20699491,234869,63,,plus
+13397,Carcharodon carcharias,121285620,0,live,kmt2e,,lysine (K)-specific methyltransferase 2E,inactive histone-lysine N-methyltransferase 2E,,13,NC_054479.1,120717497,120856644,139147,29,,plus
+13397,Carcharodon carcharias,121283130,0,live,kmt5b,,lysine methyltransferase 5B,histone-lysine N-methyltransferase KMT5B,,10,NC_054476.1,51620010,51662695,42685,12,,plus
+13397,Carcharodon carcharias,121275837,0,live,LOC121275837,,lysine-specific histone demethylase 1B,lysine-specific histone demethylase 1B,,3,NC_054469.1,188797438,188989208,191770,22,,plus
+13397,Carcharodon carcharias,121270249,0,live,mecom,,MDS1 and EVI1 complex locus,histone-lysine N-methyltransferase MECOM,,2,NC_054468.1,29848380,30685873,837493,19,,plus
+13397,Carcharodon carcharias,121287304,0,live,map1sa,,microtubule-associated protein 1Sa,microtubule-associated protein 1B,,14,NC_054480.1,125786362,125810179,23817,8,,minus
+13397,Carcharodon carcharias,121276597,0,live,mllt10,,MLLT10 histone lysine methyltransferase DOT1L cofactor,protein AF-10,,3,NC_054469.1,61072687,61392475,319788,23,,minus
+13397,Carcharodon carcharias,121269996,0,live,morf4l1,,mortality factor 4 like 1,mortality factor 4-like protein 1,,26,NC_054492.1,25170981,25217321,46340,13,,plus
+13397,Carcharodon carcharias,121287371,0,live,mpnd,,MPN domain containing,MPN domain-containing protein,,14,NC_054480.1,110482491,110535011,52520,13,,plus
+13397,Carcharodon carcharias,121289971,0,live,msh6,,mutS homolog 6 (E. coli),DNA mismatch repair protein Msh6,,2,NC_054468.1,206900184,206930698,30514,10,,plus
+13397,Carcharodon carcharias,121289256,0,live,mysm1,,"Myb-like, SWIRM and MPN domains 1",histone H2A deubiquitinase MYSM1,,16,NC_054482.1,64690044,64800493,110449,23,,minus
+13397,Carcharodon carcharias,121283037,0,live,LOC121283037,,NAD-dependent protein deacetylase sirtuin-3-like,NAD-dependent protein deacetylase sirtuin-3-like,,10,NC_054476.1,39112050,39148188,36138,13,,minus
+13397,Carcharodon carcharias,121276506,0,live,LOC121276506,,NEDD8 ultimate buster 1-like,NEDD8 ultimate buster 1-like|uncharacterized protein LOC121276506,,3,NC_054469.1,26068859,26152939,84080,14,,plus
+13397,Carcharodon carcharias,121290322,0,live,LOC121290322,,non-histone chromosomal protein HMG-14-like,non-histone chromosomal protein HMG-14-like,,18,NC_054484.1,24087985,24091052,3067,6,,minus
+13397,Carcharodon carcharias,121289194,0,live,LOC121289194,,nuclear autoantigenic sperm protein (histone-binding),nuclear autoantigenic sperm protein,,16,NC_054482.1,79494923,79513768,18845,13,,minus
+13397,Carcharodon carcharias,121275431,0,live,LOC121275431,,nuclear body protein SP140-like protein,nuclear body protein SP140-like protein,,2,NC_054468.1,84854066,84940312,86246,18,,minus
+13397,Carcharodon carcharias,121289970,0,live,nsd2,,nuclear receptor binding SET domain protein 2,histone-lysine N-methyltransferase NSD2,,1,NC_054467.1,226900016,227016474,116458,26,,minus
+13397,Carcharodon carcharias,121289607,0,live,nsd3,,nuclear receptor binding SET domain protein 3,histone-lysine N-methyltransferase NSD3,,17,NC_054483.1,15707192,15787197,80005,23,,plus
+13397,Carcharodon carcharias,121292900,0,live,LOC121292900,,nuclear transcription factor Y subunit beta-like,nuclear transcription factor Y subunit beta-like,,21,NC_054487.1,78478538,78490972,12434,7,,minus
+13397,Carcharodon carcharias,121279294,0,live,LOC121279294,,nucleolar transcription factor 1-like,nucleolar transcription factor 1-like,,6,NC_054472.1,193324053,193488361,164308,22,,plus
+13397,Carcharodon carcharias,121290486,0,live,phf11,,PHD finger protein 11,uncharacterized protein phf11,,18,NC_054484.1,97092740,97260652,167912,38,,plus
+13397,Carcharodon carcharias,121272801,0,live,phf8,,PHD finger protein 8,histone lysine demethylase PHF8,,35,NC_054501.1,6861969,6913601,51632,21,,minus
+13397,Carcharodon carcharias,121277874,0,live,LOC121277874,,pleckstrin homology domain interacting protein,PH-interacting protein,,5,NC_054471.1,61008399,61254493,246094,40,,minus
+13397,Carcharodon carcharias,121284648,0,live,pms1,,"PMS1 homolog 1, mismatch repair system component",PMS1 protein homolog 1,,12,NC_054478.1,98336139,98454423,118284,18,,plus
+13397,Carcharodon carcharias,121275183,0,live,LOC121275183,,polyamine deacetylase HDAC10-like,polyamine deacetylase HDAC10-like,,Un,,,,,,,
+13397,Carcharodon carcharias,121279817,0,live,pbrm1,,polybromo 1,protein polybromo-1,,7,NC_054473.1,24651756,24749557,97801,31,,plus
+13397,Carcharodon carcharias,121281027,0,live,pole3,,"polymerase (DNA directed), epsilon 3 (p17 subunit)",DNA polymerase epsilon subunit 3,,8,NC_054474.1,124776744,124794530,17786,5,,minus
+13397,Carcharodon carcharias,121288466,0,live,prdm16,,PR domain containing 16,histone-lysine N-methyltransferase PRDM16,,15,NC_054481.1,119406248,119943832,537584,17,,minus
+13397,Carcharodon carcharias,121277452,0,live,prdm6,,PR domain containing 6,putative histone-lysine N-methyltransferase PRDM6,,4,NC_054470.1,15077480,15373897,296417,7,,plus
+13397,Carcharodon carcharias,121292336,0,live,LOC121292336,,probable histone H2A.5,probable histone H2A.5,,20,NC_054486.1,65538295,65547395,9100,2,,plus
+13397,Carcharodon carcharias,121289998,0,live,LOC121289998,,probable JmjC domain-containing histone demethylation protein 2C,probable JmjC domain-containing histone demethylation protein 2C,,17,NC_054483.1,20345422,20408103,62681,25,,plus
+13397,Carcharodon carcharias,121271187,0,live,LOC121271187,,protein Dr1-like,protein Dr1-like,,30,NC_054496.1,11318531,11329465,10934,4,,plus
+13397,Carcharodon carcharias,121292921,0,live,LOC121292921,,protein FAM118A-like,protein FAM118A-like,,21,NC_054487.1,31274307,31351903,77596,15,,plus
+13397,Carcharodon carcharias,121293038,0,live,LOC121293038,,putative histone H2B type 2-D,putative histone H2B type 2-D,,21,NC_054487.1,10959311,10963199,3888,3,,minus
+13397,Carcharodon carcharias,121290409,0,live,LOC121290409,,putative histone H2B type 2-D,putative histone H2B type 2-D,,18,NC_054484.1,17558856,17559197,341,1,,minus
+13397,Carcharodon carcharias,121286112,0,live,LOC121286112,,putative histone H2B type 2-D,putative histone H2B type 2-D,,13,NC_054479.1,95088099,95091665,3566,2,,plus
+13397,Carcharodon carcharias,121283906,0,live,LOC121283906,,putative histone H2B type 2-D,putative histone H2B type 2-D,,11,NC_054477.1,98358495,98358881,386,1,,minus
+13397,Carcharodon carcharias,121277737,0,live,LOC121277737,,putative histone H2B type 2-D,putative histone H2B type 2-D,,5,NC_054471.1,109247125,109247517,392,1,,plus
+13397,Carcharodon carcharias,121272013,0,live,LOC121272013,,putative histone H2B type 2-D,putative histone H2B type 2-D,,32,NC_054498.1,20574362,20574718,356,1,,plus
+13397,Carcharodon carcharias,121288351,0,live,rsph10b,,radial spoke head 10 homolog B,radial spoke head 10 homolog B,,15,NC_054481.1,26762786,26813230,50444,20,,minus
+13397,Carcharodon carcharias,121276088,0,live,LOC121276088,,repetin-like,repetin-like,,3,NC_054469.1,219171265,219179348,8083,5,,minus
+13397,Carcharodon carcharias,121277419,0,live,sap30l,,sap30-like,histone deacetylase complex subunit SAP30L,,4,NC_054470.1,182242715,182265622,22907,4,,minus
+13397,Carcharodon carcharias,121285455,0,live,suds3,,"SDS3 homolog, SIN3A corepressor complex component",sin3 histone deacetylase corepressor complex component SDS3,,13,NC_054479.1,46054143,46134665,80522,12,,plus
+13397,Carcharodon carcharias,121275418,0,live,smyd3,,SET and MYND domain containing 3,histone-lysine N-methyltransferase SMYD3,,2,NC_054468.1,220714208,221635213,921005,15,,plus
+13397,Carcharodon carcharias,121280511,0,live,setmar,,SET domain and mariner transposase fusion gene,histone-lysine N-methyltransferase SETMAR,,7,NC_054473.1,72257259,72277793,20534,5,,minus
+13397,Carcharodon carcharias,121285758,0,live,setd1ba,,"SET domain containing 1B, histone lysine methyltransferase a",histone-lysine N-methyltransferase SETD1B-A,,13,NC_054479.1,33292157,33436070,143913,20,,plus
+13397,Carcharodon carcharias,121279005,0,live,setd2,,"SET domain containing 2, histone lysine methyltransferase",histone-lysine N-methyltransferase SETD2,,6,NC_054472.1,145060803,145170728,109925,24,,minus
+13397,Carcharodon carcharias,121279838,0,live,setd5,,SET domain containing 5,histone-lysine N-methyltransferase SETD5,,7,NC_054473.1,21913893,22088909,175016,31,,minus
+13397,Carcharodon carcharias,121276727,0,live,setd7,,"SET domain containing 7, histone lysine methyltransferase",histone-lysine N-methyltransferase SETD7,,1,NC_054467.1,30398023,30427210,29187,10,,minus
+13397,Carcharodon carcharias,121272003,0,live,sin3aa,,SIN3 transcription regulator family member Aa,SIN3 transcription regulator family member Aa,,32,NC_054498.1,22958806,23092560,133754,26,,plus
+13397,Carcharodon carcharias,121286934,0,live,sin3b,,SIN3 transcription regulator family member B,paired amphipathic helix protein Sin3b,,14,NC_054480.1,123907298,123963080,55782,24,,minus
+13397,Carcharodon carcharias,121284035,0,live,sap18,,Sin3A-associated protein,histone deacetylase complex subunit SAP18,,11,NC_054477.1,57888696,57919859,31163,5,,minus
+13397,Carcharodon carcharias,121290051,0,live,sirt1,,sirtuin 1,NAD-dependent protein deacetylase sirtuin-1,,17,NC_054483.1,45797396,45842556,45160,10,,minus
+13397,Carcharodon carcharias,121272628,0,live,sirt2,,"sirtuin 2 (silent mating type information regulation 2, homolog) 2 (S. cerevisiae)",NAD-dependent protein deacetylase sirtuin-2,,34,NC_054500.1,20792905,20825206,32301,17,,minus
+13397,Carcharodon carcharias,121285728,0,live,sirt4,,sirtuin 4,"NAD-dependent protein lipoamidase sirtuin-4, mitochondrial",,13,NC_054479.1,54888431,54899321,10890,7,,minus
+13397,Carcharodon carcharias,121287165,0,live,sirt6,,sirtuin 6,NAD-dependent protein deacetylase sirtuin-6,,14,NC_054480.1,102575260,102628859,53599,8,,plus
+13397,Carcharodon carcharias,121293792,0,live,sirt7,,sirtuin 7,NAD-dependent protein deacetylase sirtuin-7,,22,NC_054488.1,46443159,46477420,34261,10,,minus
+13397,Carcharodon carcharias,121277889,0,live,shprh,,SNF2 histone linker PHD RING helicase,E3 ubiquitin-protein ligase SHPRH,,5,NC_054471.1,73852810,73955257,102447,32,,plus
+13397,Carcharodon carcharias,121290818,0,live,LOC121290818,,son of sevenless homolog 1,son of sevenless homolog 1,,2,NC_054468.1,134006090,134294857,288767,25,,minus
+13397,Carcharodon carcharias,121292281,0,live,sos2,,son of sevenless homolog 2 (Drosophila),son of sevenless homolog 2,,20,NC_054486.1,67938121,68052016,113895,24,,plus
+13397,Carcharodon carcharias,121283072,0,live,supt6h,,"SPT6 homolog, histone chaperone and transcription elongation factor",transcription elongation factor SPT6,,10,NC_054476.1,166097283,166179007,81724,37,,minus
+13397,Carcharodon carcharias,121281600,0,live,LOC121281600,,stem-loop binding protein,histone RNA hairpin-binding protein,,1,NC_054467.1,229504106,229531331,27225,8,,plus
+13397,Carcharodon carcharias,121289311,0,live,samd13,,sterile alpha motif domain containing 13,sterile alpha motif domain-containing protein 13,,16,NC_054482.1,113409752,113509382,99630,8,,plus
+13397,Carcharodon carcharias,121294004,0,live,smarce1,,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1",SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1,,23,NC_054489.1,4099910,4152858,52948,12,,minus
+13397,Carcharodon carcharias,121277420,0,live,LOC121277420,,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related-like,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily E member 1-related-like,,4,NC_054470.1,101603109,101652331,49222,10,,plus
+13397,Carcharodon carcharias,121272375,0,live,taf6,,"TAF6 RNA polymerase II, TATA box binding protein (TBP)-associated factor",transcription initiation factor TFIID subunit 6,,33,NC_054499.1,9469233,9495766,26533,18,,plus
+13397,Carcharodon carcharias,121283488,0,live,ttc17,,tetratricopeptide repeat domain 17,tetratricopeptide repeat protein 17,,10,NC_054476.1,8676884,8793934,117050,25,,plus
+13397,Carcharodon carcharias,121289980,0,live,tfam,,"transcription factor A, mitochondrial","transcription factor A, mitochondrial",,17,NC_054483.1,53736486,53770634,34148,7,,minus
+13397,Carcharodon carcharias,121271556,0,live,LOC121271556,,transcription intermediary factor 1-beta-like,transcription intermediary factor 1-alpha-like|transcription intermediary factor 1-beta-like,,31,NC_054497.1,11342869,11437747,94878,21,,plus
+13397,Carcharodon carcharias,121283633,0,live,tada2a,,transcriptional adaptor 2A,transcriptional adapter 2-alpha,,10,NC_054476.1,158185474,158226587,41113,17,,minus
+13397,Carcharodon carcharias,121277943,0,live,tada2b,,transcriptional adaptor 2B,transcriptional adapter 2-beta,,1,NC_054467.1,76482487,76491244,8757,1,,minus
+13397,Carcharodon carcharias,121274513,0,live,LOC121274513,,uncharacterized LOC121274513,uncharacterized protein LOC121274513,,37,,,,,,,
+13397,Carcharodon carcharias,121274852,0,live,LOC121274852,,uncharacterized LOC121274852,uncharacterized protein LOC121274852,,39,,,,,,,
+13397,Carcharodon carcharias,121274853,0,live,LOC121274853,,uncharacterized LOC121274853,uncharacterized protein LOC121274853,,39,,,,,,,
+13397,Carcharodon carcharias,121274893,0,live,LOC121274893,,uncharacterized LOC121274893,uncharacterized protein LOC121274893,,39,,,,,,,
+13397,Carcharodon carcharias,121274894,0,live,LOC121274894,,uncharacterized LOC121274894,uncharacterized protein LOC121274894,,39,,,,,,,
+13397,Carcharodon carcharias,121274916,0,live,LOC121274916,,uncharacterized LOC121274916,uncharacterized protein LOC121274916,,39,,,,,,,
+13397,Carcharodon carcharias,121274919,0,live,LOC121274919,,uncharacterized LOC121274919,uncharacterized protein LOC121274919,,39,,,,,,,
+13397,Carcharodon carcharias,121279384,0,live,zgc:92591,,uncharacterized LOC121279384,zgc:92591,,6,NC_054472.1,192006285,192012849,6564,3,,minus
+13397,Carcharodon carcharias,121288346,0,live,LOC121288346,,uncharacterized LOC121288346,LOW QUALITY PROTEIN: uncharacterized protein LOC121288346,,15,NC_054481.1,22979079,23023889,44810,19,,minus
+13397,Carcharodon carcharias,121288347,0,live,LOC121288347,,uncharacterized LOC121288347,LOW QUALITY PROTEIN: uncharacterized protein LOC121288347,,15,NC_054481.1,23064465,23109335,44870,20,,minus
+13397,Carcharodon carcharias,121288847,0,live,LOC121288847,,uncharacterized LOC121288847,uncharacterized protein LOC121288847,,2,NC_054468.1,226593914,226598346,4432,2,,minus
+13397,Carcharodon carcharias,121292585,0,live,LOC121292585,,uncharacterized LOC121292585,uncharacterized protein LOC121292585,,1,NC_054467.1,22283808,22333549,49741,15,,minus
+13397,Carcharodon carcharias,121293080,0,live,si:dkey-103i16.6,,uncharacterized LOC121293080,NAD-dependent protein deacetylase sirtuin-3,,21,NC_054487.1,83057508,83067037,9529,6,,plus
+13397,Carcharodon carcharias,121277203,0,live,LOC121277203,,uncharacterized protein KIAA2026-like,uncharacterized protein KIAA2026-like,,4,NC_054470.1,97401222,97480691,79469,8,,plus
+13397,Carcharodon carcharias,121269242,0,live,ubtf,,upstream binding transcription factor,nucleolar transcription factor 1,,23,NC_054489.1,30496917,30556646,59729,22,,minus
+13397,Carcharodon carcharias,121283860,0,live,LOC121283860,,von Willebrand factor A domain-containing protein 3B-like,LOW QUALITY PROTEIN: von Willebrand factor A domain-containing protein 3B-like,,11,NC_054477.1,27970450,28300952,330502,45,,minus
+13397,Carcharodon carcharias,121273272,0,live,LOC121273272,,zinc finger protein 148-like,zinc finger protein 148-like,,X,NC_054507.1,8501902,8909429,407527,7,,minus
+13397,Carcharodon carcharias,121276174,0,live,zmynd11,,"zinc finger, MYND-type containing 11",zinc finger MYND domain-containing protein 11,,3,NC_054469.1,37613574,37798214,184640,18,,plus
